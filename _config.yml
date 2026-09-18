@@ -36,6 +36,7 @@ resume_header_intro: "<p>Product and project leader with experience directing cu
 # Decide which sections to use
 # comment out to hide
 resume_section_experience:      true
+resume_section_other:           true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
