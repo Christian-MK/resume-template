@@ -1,12 +1,24 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Strategic Communication & Stakeholder Alignment
+- skill: Strategic Communication & Stakeholder Alignment
+  description: I build alignment across technical teams, executives, clients, researchers, and community stakeholders by adapting complex information to the needs of different audiences. I am particularly effective at facilitating conversations where priorities, terminology, or perspectives initially differ.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Product & Project Leadership
+- skill: Product & Project Leadership
+  description: I lead complex technical work from ambiguous requirements through delivery, translating strategic goals into development priorities, plans, and actionable work. My experience includes coordinating distributed development teams while balancing product, operational, and stakeholder needs.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Systems Analysis & Requirements Translation
+- skill: Systems Analysis & Requirements Translation
+  description: I excel at understanding complex systems and turning evolving or incomplete needs into clear requirements. My work has included requirements elicitation, process analysis, use cases, user stories, technical architecture, documentation, and translating between technical and non-technical stakeholders.
+
+# Research & Applied Analysis
+- skill: Research & Applied Analysis
+  description: My research background allows me to enter unfamiliar domains quickly, evaluate complex information, identify meaningful patterns, and translate findings into practical decisions. My work has spanned AI governance, data provenance, decentralized systems, records management, and regulatory requirements.
+
+# Governance, Risk & Operational Management
+- skill: Governance, Risk & Operational Management
+  description: I develop the policies, processes, and documentation that help organizations operate consistently and manage risk. My experience includes risk assessment, SOP development, compliance initiatives, audit coordination, information governance, and grant oversight.
+
+# Ambiguity Management
+- skill: Ambiguity Management
+  description: I am comfortable working where the problem, requirements, or path forward are not yet fully defined. I bring structure to uncertain environments by asking the right questions, learning new domains quickly, identifying dependencies, and creating a practical path from ambiguity to execution.
