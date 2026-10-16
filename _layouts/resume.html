@@ -75,13 +75,22 @@
           itemprop="worksFor"
           itemtype="http://schema.org/Organization"
         >
-          <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
+          <h3 class="resume-item-title" itemprop="name">
+            {{ job.company }} {% if professional_experience.url %}<a
+              href="{{ professional_experience.url }}"
+              >{{ professional_experience.company }}</a
+            >{% else %}{{ professional_experience.company }}{% endif %}
+          </h3>
           <h4 class="resume-item-details" itemprop="description">
             {{ job.position }} &bull; {{ job.duration }}
           </h4>
           <p class="resume-item-copy">{{ job.summary }}</p>
         </div>
         <!-- end of resume-item -->
+        <!--           
+          <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
+          <h4 class="resume-item-details" itemprop="description">
+          -->
         {% endfor %}
       </section>
       <!-- end Professional Experience **test** -->
