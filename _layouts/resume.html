@@ -76,10 +76,12 @@
           itemtype="http://schema.org/Organization"
         >
           <h3 class="resume-item-title" itemprop="name">
-            {{ job.company }} {% if professional_experience.url %}<a
-              href="{{ professional_experience.url }}"
-              >{{ professional_experience.company }}</a
-            >{% else %}{{ professional_experience.company }}{% endif %}
+            {% if job.url %}<a
+              href="{{ job.url }}"
+              target="_blank"
+              rel="noopener"
+              >{{ job.company }}</a
+            >{% else %}{{ job.company }}{% endif %}
           </h3>
           <h4 class="resume-item-details" itemprop="description">
             {{ job.position }} &bull; {{ job.duration }}
