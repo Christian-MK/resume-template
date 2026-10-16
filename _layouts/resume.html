@@ -155,7 +155,13 @@
             {% endfor %}
           </ul>
 
-          <p class="resume-item-copy">{{ education.summary }}</p>
+          {% if education.summary %}
+          <ul class="resume-item-list">
+            {% for bullet in education.summary %}
+            <li>{{ bullet }}</li>
+            {% endfor %}
+          </ul>
+          {% endif % }
         </div>
         {% endfor %}
       </section>
