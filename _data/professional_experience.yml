@@ -3,6 +3,7 @@
 - company: Orcfax Ltd.
   position: Product Owner
   duration: Mar, 2023 — Present
+  url: https://orcfax.io/
   summary: Direct product development for a decentralized data provider designed to meet the institutional data requirements of clients integrating our services; the products and services I managed prioritized independent verifiability, permanent archival integrity, and provable auditability.	<ul class="resume-item-list"><li>Drive product innovation & product lifecycle management</li><li>Coordinate multiple distributed development teams</li><li>Own stakeholder & partner communications</li><li>Lead risk assessment, SOP, & mitigation initiatives</li><li>Own product & technical documentation</li><li>Manage annual development budget, $1.1M</li><li>Use data tools to drive strategic development</li><li>Spearhead partnership growth</li></ul>
 # <ul class="resume-item-list"><li>FIRST-ITEM</li><li>ANOTHER</li><li>AND-ANOTHER</li><li>LAST</li></ul>
 
@@ -10,18 +11,28 @@
 - company: Arkrim
   position: Systems Analyst
   duration: Jan, 2023 — Oct, 2024
+  url: https://arkrim.tech/
   summary: Led research initiatives and functional requirements analysis for a digital curation service for institutional library, archives, and museum repositories to ensure the long-term accessibility of collections. <ul class="resume-item-list"><li>Researched & applied regulations for information systems</li><li>Translated product vision into function requirements</li><li>Developed metadata schema standards for born-digital records</li><li>Collaborated with lead researchers on digital record keeping</li></ul>
 
 # Systems Analyst & Research Assistant
 - company: Landano International Ltd.
   position: Communications Coordinator
   duration: May, 2022  — Jun, 2024
+  url: https://landano.io/
   summary: Drove research initiatives and functional requirements analysis for a decentralized application focused on securing standards-compliant land right records, enabling financial opportunities for formerly undocumented and unbanked users in West and Southern Africa. <ul class="resume-item-list"><li>Researched and applied regulatory requirements</li><li>Owned use case analysis & user story development</li><li>Partnered with stakeholders to align expectations</li><li>Led system documentation for internal/external use</li><li>Participated in & drafted academic papers</li><li>Represented the project in cross-cultural communications</li></ul>
+
+# Land Tenure & Traditional Property Rights Consultant
+- company: The Peace Coalition
+  position: Land Tenure & Traditional Property Rights Consultant
+  duration: Nov, 2022 - Nov, 2023
+  url: https://peacecoalition.adamax.com.ua/
+  summary: Applied interdisciplinary research in land governance and emerging technologies to explore solutions for displaced Ukrainians. <ul class="resume-item-list"><li>Analyzed land tenure frameworks and evidentiary requirements for establishing property claims in conflict-affected regions</li><li>Evaluated decentralized record-keeping technologies for preserving and verifying property rights documentation</li><li>Examined the applicability of alternative ownership evidence and land formalization methodologies to post-conflict restitution processes</li></ul>
 
 # Research Assistant
 - company: InterPARES Trust AI
   position: Research Assistant
   duration: Jan, 2022  — Nov, 2022
+  url: https://interparestrustai.org/
   summary: Collaborated with world renowned AI experts and senior researchers to drive global research initiatives aimed at better understanding the impacts of applied archival principles in AI-driven records management systems. <ul class="resume-item-list"><li>Researched the ethics of AI use in records management</li><li>Managed inter-research collaboration across teams</li><li>Partnered with lead researchers on academic papers</li><li>Presented research findings to peers & stakeholders</li><li>Directed use of citation management software & resources</li></ul>
 
 # Department Manager
